@@ -1,4 +1,4 @@
-### Advanced Calculator in Java
+# Advanced Calculator in Java
 
 The Advanced Calculator is a comprehensive console-based application implemented in Java that performs a wide range of mathematical operations beyond basic arithmetic. This calculator is designed to handle complex calculations, including trigonometric functions, logarithmic functions, exponentiation, and more. The application leverages Java's robust standard library to ensure precise and efficient computations.
 
@@ -192,6 +192,9 @@ public class AdvancedCalculator {
     }
 }
 ```
+
+![image](https://github.com/Lalit48/Advanced-Calculator-in-Java/assets/132306853/d1897815-c659-4edb-9b28-7432ca02523f)
+
 
 ### Explanation
 
